@@ -1,0 +1,32 @@
+FTP
+Transmision de archivos
+Hosting barato normal ---> /public_html/ <--- FTP
+
+SISTEMA DE CONTROL DE VERSIONES
+
+SVN: SUBVERSION / MERCURIAL / TFS / CVS / GIT
+
+GITHUB
+======
+1. Red Social de programadores
+2. Web / Apps
+3. Mucho mas facil 
+
+=================================================
+Repositorio de codigo GITHUB (master)
+- Clon local
+	comint	-	sync
+1. Multiples versiones del mismo codigo
+2. Cambios Delta
+	Base de datos atómica del código
+3. Historial de cada archivo
+4. Multiples personas sobre el mismo archivo
+5. Culpa al culpable
+6. Rmas (branches)
+	* master (github.com) REPO PRNCIPAL
+	* master (disco duro) REPO LOCAL
+		* master
+			----- MERGE (experimental - master) ------
+		* experimental local
+	* master (servidor.com) REPO PRODUCCION
+
